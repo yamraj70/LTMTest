@@ -1,0 +1,6 @@
+@LTMPorjectTes_HostAddress = http://localhost:5130
+
+GET {{LTMPorjectTes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
